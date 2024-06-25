@@ -43,3 +43,6 @@ This project focuses on developing a sophisticated Customer Lifetime Value (CLV)
   
 3. Recently Active Customers:
 Cluster 0: Customers in this cluster are relatively recent and active. Continue engaging them with regular communications and promotions to maintain their activity levels.
+
+
+###### Reference: https://youtu.be/s-32u6XdY7c?si=i9fJBE1aRqQl49mZ
